@@ -1,0 +1,16 @@
+Octane plugin for Grok Bot and Cursor
+Copyright 2026 Ryw, Inc.
+
+This plugin package is licensed under the Apache License, Version 2.0 (see
+LICENSE), except for the Octane logo. The license covers the skill
+instructions, review rules, configuration and documentation in this package.
+
+"Octane" and the Octane logo (assets/logo.png) are trademarks of Ryw, Inc.
+The logo file is not licensed under the Apache License and may be used only to
+identify this package as Octane's. As section 6 of the license states, it
+grants no permission to use the Octane name or logo except as reasonable and
+customary to describe the origin of this package.
+
+The package connects to the Octane service operated by Ryw, Inc. That service,
+its data and its source code are not part of this package or this license,
+and using them requires an Octane account under its own agreement.

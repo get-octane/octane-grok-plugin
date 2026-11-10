@@ -1,0 +1,11 @@
+{
+  "name": "octane",
+  "displayName": "Octane",
+  "version": "0.1.0",
+  "description": "Review store performance, inventory exceptions, and invoice costs with Octane evidence and links for operator follow-up.",
+  "author": { "name": "Ryw, Inc.", "email": "agent@getoctane.ai" },
+  "homepage": "https://getoctane.ai",
+  "license": "Apache-2.0",
+  "keywords": ["store-operations", "inventory", "invoices", "read-only"],
+  "logo": "assets/logo.png"
+}

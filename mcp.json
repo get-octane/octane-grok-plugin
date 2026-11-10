@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "octane": {
+      "url": "https://store.getoctane.ai/mcp",
+      "auth": {
+        "CLIENT_ID": "aRL9i0dDzmV4V8f2",
+        "scopes": [
+          "octane:read",
+          "user:org:read",
+          "offline_access"
+        ]
+      }
+    }
+  }
+}
