@@ -1,7 +1,7 @@
 {
   "name": "octane",
   "displayName": "Octane",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Review store performance, inventory exceptions, and invoice costs with Octane evidence and links for operator follow-up.",
   "author": { "name": "Ryw, Inc.", "email": "agent@getoctane.ai" },
   "homepage": "https://getoctane.ai",
